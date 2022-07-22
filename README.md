@@ -85,4 +85,3 @@ adultas: 75.0%
 a partir de 50: 15.0%
 
 TOTAL: 200
-```
